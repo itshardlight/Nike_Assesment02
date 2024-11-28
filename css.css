@@ -47,11 +47,12 @@
   font-weight: bold;
   color: #00000000;
   /* border: solid pink; */
+  color: black;
 }
 .navin3 {
   display: flex;
   justify-content: center;
-  
+
   /* border: solid blue; */
 }
 .navigation {
