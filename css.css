@@ -4,10 +4,25 @@
   padding-bottom: 12px;
   padding-right: 50px;
   display: flex;
-  justify-content: right;
   gap: 10px;
+  justify-content: space-between;
   font-size: 12px;
   font-weight: bold;
+  /* border: solid green; */
+}
+.unish{
+  display: flex;
+  gap: 10px;
+  /* border: solid black 1px; */
+  
+  
+}
+.navlogo{
+  display: flex;
+  /* border: solid red; */
+  justify-content: left;
+  
+ 
 }
 .nav2 {
   display: flex;
